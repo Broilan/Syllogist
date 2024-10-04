@@ -1,0 +1,9 @@
+Polysemy
+hypernymy - Superordination
+Hyponym
+word embeddings/vectors
+Lemmas & Lexemes
+
+https://www.google.com/search?q=Word2Vec&rlz=1C1CHZN_enUS988US988&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=GloVe&rlz=1C1CHZN_enUS988US988&sourceid=chrome&ie=UTF-8
+https://conceptnet.io/
